@@ -1,3 +1,7 @@
+//balls bouncing and changing size 
+//RGB blue background 
+
+
 var circles = [];
 
 function setup() {
